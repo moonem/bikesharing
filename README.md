@@ -62,7 +62,7 @@ Thursday 5 p.m. to 7 p.m. shows the highest number of bike trips.
 
 As shown earlier, Male had significantly higher bike trips than Female and others.
 
-![weekday_trip_per_hour](https://user-images.githubusercontent.com/58155187/130205993-e69fd94d-2513-4ef4-a361-3a092fd1006d.png)
+![trip_by_gender_per_hour](https://user-images.githubusercontent.com/58155187/130208898-8345adee-a926-4a5d-b8d3-414de80f75c8.png)
 
 ### User Trips by Gender by Weekday
 
