@@ -10,6 +10,8 @@ The purpose of this data analysis is to convince investors that a bike-sharing p
 
 ## RESULTS 
 
+The **Story** on NYC Citibike Trip Data Analysis can be found on the following **Tableau Public** url link: https://public.tableau.com/app/profile/m.a.moonem/viz/NYC_Citibike_Trip_Analysis_16294463553370/NYCCitibikeTripAnalysis?publish=yes 
+
 ## Steps of Analysis - D1:
 
 At first, the NYC Citibike trip data for the month of August 2019 has been imported to a *jupyter notebook* **NYC_CitiBike_Challenge** and the *tripduration* column datatype has been changed from *integer* to *date-time* format bu using Pandas **to_datetime()** method with `unit='s'`. The new DataFrame with converterd `tripduration` columns has been exported to *"201908_citibike_datetime.csv"* (as shown below) which is them imported to Tableau for further analysis.
