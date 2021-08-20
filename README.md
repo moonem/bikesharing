@@ -96,6 +96,6 @@ From the Citibike trip-data analysis two key findings can be summarized as follo
 
 
 
-#### Cotact:
+#### Contact:
 
 m.a.moonem@gmail.com 
