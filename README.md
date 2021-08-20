@@ -1,4 +1,4 @@
-# NYC Citi Bike Trip Data Analysis
+# NYC CitiBike Trip Data Analysis
 
 ## Overview of the Analysis
 
